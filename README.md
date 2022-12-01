@@ -23,7 +23,7 @@ sudo su
 
 ```
 
-wget -q -O Mamaki.sh https://raw.githubusercontent.com/Contribution-DAO/Celestia/main/Mamaki.sh && chmod +x Mamaki.sh && sudo /bin/bash Mamaki.sh
+wget -q -O Mamaki.sh https://raw.githubusercontent.com/jipan76/Celestia-1/main/Mamaki.sh && chmod +x Mamaki.sh && sudo /bin/bash Mamaki.sh
 ```
 
 Node Name and Wallet Name plese use english letters and number only
@@ -32,7 +32,7 @@ Node Name and Wallet Name plese use english letters and number only
 
 ```
 
-wget -q -O Bridge_Node.sh https://raw.githubusercontent.com/Contribution-DAO/Celestia/main/Bridge_Node.sh && chmod +x Bridge_Node.sh && sudo /bin/bash Bridge_Node.sh
+wget -q -O Bridge_Node.sh https://raw.githubusercontent.com/jipan76/Celestia-1/main/Bridge_Node.sh && chmod +x Bridge_Node.sh && sudo /bin/bash Bridge_Node.sh
 ```
 
 ## 3. Check Syncing latest blocks
@@ -122,7 +122,7 @@ Make sure balance on wallet before  run Validator command
 
 ```
 
-wget -q -O Create-validator.sh https://raw.githubusercontent.com/Contribution-DAO/Celestia/main/Create-validator.sh && chmod +x Create-validator.sh && sudo /bin/bash Create-validator.sh
+wget -q -O Create-validator.sh https://raw.githubusercontent.com/jipan76/Celestia-1/main/Create-validator.sh && chmod +x Create-validator.sh && sudo /bin/bash Create-validator.sh
 ```
 
 ## 7. Verify your Validator
